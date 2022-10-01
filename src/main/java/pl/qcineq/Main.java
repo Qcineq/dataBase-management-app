@@ -1,5 +1,7 @@
 package pl.qcineq;
 
+import pl.qcineq.BCrypt.BCrypt;
+import pl.qcineq.DAO.UserDao;
 import pl.qcineq.entity.User;
 
 public class Main {

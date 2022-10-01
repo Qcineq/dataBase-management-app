@@ -1,5 +1,6 @@
 package pl.qcineq.DAO;
 
+import pl.qcineq.BCrypt.BCrypt;
 import pl.qcineq.dbUtil.DbUtil;
 import pl.qcineq.entity.User;
 
